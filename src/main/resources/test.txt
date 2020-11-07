@@ -1,0 +1,7 @@
+multiply 2
+add 1
+add 1
+multiply 2
+multiply 2
+power 2
+apply 3

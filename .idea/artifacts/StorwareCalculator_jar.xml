@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StorwareCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/StorwareCalculator_jar</output-path>
+    <root id="archive" name="StorwareCalculator.jar">
+      <element id="module-output" name="StorwareCalculator" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/maven/surefire/surefire-logger-api/2.21.0/surefire-logger-api-2.21.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-surefire-provider/1.2.0-M1/junit-platform-surefire-provider-1.2.0-M1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/maven/surefire/surefire-api/2.21.0/surefire-api-2.21.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-launcher/1.2.0-M1/junit-platform-launcher-1.2.0-M1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/maven/surefire/common-java5/2.21.0/common-java5-2.21.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-engine/1.5.2/junit-platform-engine-1.5.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.5.2/junit-platform-commons-1.5.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
