@@ -19,5 +19,6 @@ $ build a .jar file first (mvn clean install), or you can use prepared .jar file
 $ if you created a .jar file go to the target folder (cd target)
 $ Run .jar file (target path -> java -jar StorwareCalculator-1.0-SNAPSHOT.jar <inputFilePath>, StorwareCalculator_jar path -> java -jar StorwareCalculator.jar <inputFilePath>)
 ```
-In src\main\resources you can use file `test.txt` for testing
-Additionaly if you want to run tests use command `mvn test`
+#### In `src\main\resources` you can use file `test.txt` for testing.
+
+#### Additionaly if you want to run tests use command `mvn test`
