@@ -17,7 +17,7 @@ public class DataWorker {
 
     public boolean isStatementValid() {
         Pattern pattern = Pattern.compile("^apply [0-9]+");
-        return statement.stream().anyMatch(e -> e.matches(pattern.pattern()));
+        return statement.get(statement.size()-1).matches((pattern.pattern()));
     }
 
     public int executeStatement() {
